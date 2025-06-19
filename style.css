@@ -1,0 +1,15 @@
+body {
+  background-color: #DE945D;
+  font-family: Arial, sans-serif;
+}
+
+.main-title {
+  color: darkblue;
+  text-align: center;
+}
+
+#description {
+  color: #555;
+  font-size: 18px;
+  margin: 20px;
+}
